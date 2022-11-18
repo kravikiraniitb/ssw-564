@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=latex 2022.10.7)  18 NOV 2022 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=latex 2022.10.7)  18 NOV 2022 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -786,7 +786,11 @@ File: l3backend-dvips.def 2022-07-01 L3 backend support: dvips
 
 LaTeX Warning: Label `Table::UpdateHistory' multiply defined.
 
-) (introduction.aux) (chapter2.aux))
+) (introduction.aux) (chapter2.aux
+
+LaTeX Warning: Label `Chapter::Introduction' multiply defined.
+
+))
 \openout1 = `manual.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 235.
@@ -834,8 +838,8 @@ Overfull \hbox (0.70657pt too wide) in alignment at lines 6--12
  []
 
 
-LaTeX Warning: Reference `Chapter::chapter2' on page iii undefined on input lin
-e 18.
+LaTeX Warning: Reference `Chapter::dmaLassoInterpolate' on page iii undefined o
+n input line 18.
 
 
 LaTeX Warning: Reference `Figure::dmaRemoveBackgroundSubclass' on page iii unde
@@ -977,11 +981,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ])
 
 Package fancyhdr Warning: \headheight is too small (14.45377pt): 
-(fancyhdr)                Make it at least 26.15004pt, for example:
-(fancyhdr)                \setlength{\headheight}{26.15004pt}.
+(fancyhdr)                Make it at least 26.28336pt, for example:
+(fancyhdr)                \setlength{\headheight}{26.28336pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 
-(fancyhdr)                \addtolength{\topmargin}{-11.69627pt}.
+(fancyhdr)                \addtolength{\topmargin}{-11.82959pt}.
 
 [4] (manual.bbl
 
@@ -1002,22 +1006,16 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `manual.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `manual.out':
-(rerunfilecheck)             Before: 5857F85DDFD27AE9FCC234FE0ABABE1E;657
-(rerunfilecheck)             After:  43438B93C6C803DB91C1EF3A5D80C603;667.
+Package rerunfilecheck Info: File `manual.out' has not changed.
+(rerunfilecheck)             Checksum: 83EDD7453C2E547604CF3670E3BCE93E;582.
  ) 
 Here is how much of TeX's memory you used:
- 23080 strings out of 478339
- 420686 string characters out of 2846541
- 907272 words of memory out of 3000000
- 41090 multiletter control sequences out of 15000+600000
- 478351 words of font info for 62 fonts, out of 8000000 for 9000
+ 23075 strings out of 478339
+ 420597 string characters out of 2846541
+ 908272 words of memory out of 3000000
+ 41085 multiletter control sequences out of 15000+600000
+ 478044 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,11n,89p,442b,626s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on manual.dvi (13 pages, 32136 bytes).
+Output written on manual.dvi (13 pages, 31328 bytes).

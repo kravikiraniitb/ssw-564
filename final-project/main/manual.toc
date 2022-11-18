@@ -1,3 +1,4 @@
 \contentsline {chapter}{\numberline {1}Introduction \\ \small {\textit {-- Ravi Kiran \& Anita}} }{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Introduction \\ \small {\textit {-- Author Name}} }{3}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Scope \\ \small {\textit {-- Ravi Kiran}} }{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Test Section }{4}{section.2.1}%
 \contentsline {chapter}{Bibliography}{5}{chapter*.1}%
